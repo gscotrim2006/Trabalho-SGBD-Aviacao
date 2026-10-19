@@ -134,5 +134,5 @@ Modelos de linguagem foram usados para reorganizar colunas das tabelas após a n
 
 - [Diogo Pontes](github.com/diogoPontes248)
 - [Felipe Cardoso]
-- [Guilherme Cotrim](github.com/GuisoBiso67)
+- [Guilherme Cotrim](github.com/gscotrim2006)
 - [Sérgio Zordan]
