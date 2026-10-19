@@ -132,7 +132,7 @@ Modelos de linguagem foram usados para reorganizar colunas das tabelas após a n
 
 ## Autores
 
-- [Diogo Pontes](github.com/diogoPontes248)
+- [Diogo Pontes](https://github.com/diogoPontes248)
 - [Felipe Cardoso]
-- [Guilherme Cotrim](github.com/gscotrim2006)
+- [Guilherme Cotrim](https://github.com/gscotrim2006)
 - [Sérgio Zordan]
