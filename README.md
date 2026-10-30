@@ -54,7 +54,7 @@ A tabela original foi normalizada em 12 tabelas:
 
 ## Como executar
 
-**Requisitos:** PostgreSQL ([versão que você usou]) e `psql` ou pgAdmin.
+**Requisitos:** PostgreSQL 18.4 e `psql` ou pgAdmin.
 
 1. Crie o banco e as tabelas:
    ```bash
