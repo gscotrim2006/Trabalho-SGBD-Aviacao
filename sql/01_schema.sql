@@ -117,7 +117,7 @@ recomendacao_dia_feedback DATE,
 recomendacao_numero TEXT NOT NULL,
 destinatario_sigla VARCHAR(20) NOT NULL,
 codigo_ocorrencia INTEGER NOT NULL,
-PRIMARY KEY (numero_recomendacao, codigo_ocorrencia, recomendacao_numero),
+PRIMARY KEY (destinatario_sigla, codigo_ocorrencia, recomendacao_numero),
 FOREIGN KEY (recomendacao_numero) REFERENCES RECOMENDACAO_TIPO(recomendacao_numero),
 FOREIGN KEY (destinatario_sigla) REFERENCES DESTINATARIO(recomendacao_destinatario_sigla),
 FOREIGN KEY (codigo_ocorrencia) REFERENCES OCORRENCIA(codigo_ocorrencia)
